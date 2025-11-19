@@ -27,16 +27,17 @@ Bu proje Python + Flask ile geliştirilmiş olup, **modern arayüz**,
 ## 🎥 Demo (Ekran Görüntüleri)
 
 ### 🟣 Ana Sayfa
-images /fdtNUxb - Imgur.png
+<img src="images/fdtNUxb - Imgur.png" width="300">
 
 ### 🟣 QR Kod Oluşturma
-images/vbVtrgJ - Imgur.png
+<img src="images/vbVtrgJ - Imgur.png" width="300">
 
 ### 🟣 Şifre Koruma Ekranı
-images/kciYBP0 - Imgur.png
+<img src="images/kciYBP0 - Imgur.png" width="300">
 
 ### 🟣 Not Görüntüleme
-images/j2vkFSd - Imgur.png
+<img src="images/j2vkFSd - Imgur.png" width="300">
+
 
 ---
 
@@ -94,17 +95,12 @@ Sunucuyu şu şekilde başlat:
 app.run(host="0.0.0.0", port=5000)
 Bilgisayarının IP’sini öğren:
 
-nginx
-Kodu kopyala
 ipconfig
 Örnek IP:
 
-Kodu kopyala
 192.168.1.105
 Telefondan aç:
 
-cpp
-Kodu kopyala
 http://192.168.1.105:5000
 QR kodlar da bu IP’yi içerir → telefonda direkt açılır 🎉
 
@@ -141,4 +137,5 @@ Projeyi beğendiysen bir ⭐ bırakabilirsin 🌟
 Fork’layıp geliştirmek istersen memnuniyet duyarım!
 
 ---
+
 
