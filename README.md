@@ -1,18 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/oyO8CZ3.png" width="800">
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20by-G%C3%BClce-purple?style=for-the-badge">
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/Li67QEd.gif" width="500">
-</p>
-
----
 
 # 🌈 QR Note Generator — Şifreli QR Kodlu Not Paylaşım Uygulaması
 
@@ -41,16 +27,15 @@ Bu proje Python + Flask ile geliştirilmiş olup, **modern arayüz**,
 ## 🎥 Demo (Ekran Görüntüleri)
 
 ### 🟣 Ana Sayfa
-<img src="https://i.imgur.com/EcY4rCZ.png" width="600">
+https://imgur.com/a/ElcrOAM
 
 ### 🟣 QR Kod Oluşturma
-<img src="https://i.imgur.com/7H3lLwC.png" width="600">
+
 
 ### 🟣 Şifre Koruma Ekranı
-<img src="https://i.imgur.com/g07EzP3.png" width="600">
 
 ### 🟣 Not Görüntüleme
-<img src="https://i.imgur.com/vk0poTL.png" width="600">
+
 
 ---
 
@@ -79,9 +64,6 @@ qrNote/
 ├── note.html
 └── password.html
 
-yaml
-Kodu kopyala
-
 ---
 
 ## ⚙️ Kurulum
@@ -91,22 +73,13 @@ Kodu kopyala
 git clone https://github.com/gulcekiyakkas/qrNote.git
 cd qrNote
 
-shell
-Kodu kopyala
-
 ### 2️⃣ Gereksinimleri Kur
 
 pip install -r requirements.txt
 
-shell
-Kodu kopyala
-
 ### 3️⃣ Sunucuyu Başlat
 
 python appQr.py
-
-yaml
-Kodu kopyala
 
 ---
 
@@ -158,10 +131,12 @@ Bu projeyi daha da büyütmek istersen ekleyebilirim:
 
 ☁️ Online Deployment (Render / Vercel / PythonAnywhere)
 
-👤 Geliştirici
-Gülce Kıyak
+## 👤 Geliştirici
+Gülce Kıyakkaş
 Makine Mühendisliği Öğrencisi • Yapay Zeka ve Yazılım Geliştirme
 
-⭐ Destek
+##⭐ Destek
 Projeyi beğendiysen bir ⭐ bırakabilirsin 🌟
 Fork’layıp geliştirmek istersen memnuniyet duyarım!
+
+---
