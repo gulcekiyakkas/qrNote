@@ -27,15 +27,16 @@ Bu proje Python + Flask ile geliştirilmiş olup, **modern arayüz**,
 ## 🎥 Demo (Ekran Görüntüleri)
 
 ### 🟣 Ana Sayfa
-https://imgur.com/a/ElcrOAM
+images /fdtNUxb - Imgur.png
 
 ### 🟣 QR Kod Oluşturma
-
+images/vbVtrgJ - Imgur.png
 
 ### 🟣 Şifre Koruma Ekranı
+images/kciYBP0 - Imgur.png
 
 ### 🟣 Not Görüntüleme
-
+images/j2vkFSd - Imgur.png
 
 ---
 
@@ -140,3 +141,4 @@ Projeyi beğendiysen bir ⭐ bırakabilirsin 🌟
 Fork’layıp geliştirmek istersen memnuniyet duyarım!
 
 ---
+
