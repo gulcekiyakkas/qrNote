@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>QR Note Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<h1 class="title">QR Note Generator</h1>
+
+<div class="wrapper">
+
+    <form method="POST" class="card">
+        <textarea name="note" placeholder="Notunu buraya yaz..." required></textarea>
+
+        <input type="password" name="password" placeholder="Not şifresi (isteğe bağlı)" class="password">
+
+        <button type="submit" class="btn">QR Kod Oluştur</button>
+    </form>
+
+    {% if qr_path %}
+    <div class="qr-card">
+        <h3>QR Kod Hazır 🎉</h3>
+        <img src="{{ qr_path }}" alt="QR Code">
+        <a href="{{ qr_link }}" target="_blank" class="open-btn">Notu Aç</a>
+    </div>
+    {% endif %}
+
+</div>
+
+</body>
+</html>

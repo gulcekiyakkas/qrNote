@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Not Görüntüle</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body class="note-body">
+
+<div class="note-wrapper">
+    <div class="note-card">
+        <div class="note-header">📄 Not</div>
+        <div class="note-content">{{ note }}</div>
+    </div>
+</div>
+
+</body>
+</html>
