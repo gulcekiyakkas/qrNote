@@ -128,14 +128,40 @@ Bu projeyi daha da büyütmek istersen ekleyebilirim:
 
 ☁️ Online Deployment (Render / Vercel / PythonAnywhere)
 
-## 👤 Geliştirici
-Gülce Kıyakkaş
-Makine Mühendisliği Öğrencisi • Yapay Zeka ve Yazılım Geliştirme
 
-##⭐ Destek
+⭐ Destek
 Projeyi beğendiysen bir ⭐ bırakabilirsin 🌟
 Fork’layıp geliştirmek istersen memnuniyet duyarım!
 
 ---
+
+<p align="center">
+  <div style="background: linear-gradient(135deg, #a060ff, #6e8bff); padding: 30px; border-radius: 20px; width: 80%; max-width: 700px; box-shadow: 0 8px 30px rgba(0,0,0,0.2); text-align: center; color: white; margin: auto;">
+      
+      <h1 style="margin-bottom: 10px; font-size: 40px;">👩‍💻 Gülce Kıyakkaş</h1>
+      <h2 style="margin-top: 0; font-size: 22px; font-weight: 300;">
+          Yazılım Mühendisliği Öğrencisi
+      </h2>
+      <h3 style="font-size: 18px; font-weight: 300; margin-top: 10px;">
+          Yapay Zeka • Backend • Modern Web Uygulamaları
+      </h3>
+
+      <br>
+
+      <a href="https://github.com/gulcekiyakkas" target="_blank" style="text-decoration:none;">
+          <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+      </a>
+
+      <a href="https://www.linkedin.com" target="_blank" style="text-decoration:none;">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+      </a>
+
+      <a href="mailto:example@gmail.com" target="_blank" style="text-decoration:none;">
+          <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+      </a>
+
+  </div>
+</p>
+
 
 
