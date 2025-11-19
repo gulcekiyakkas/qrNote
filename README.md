@@ -1,3 +1,14 @@
+# 👤 Geliştirici  
+## 🎓 Gülce Kıyakkaş  
+### Yazılım Mühendisliği Öğrencisi  
+
+**Alanlar:**  
+- Yapay Zeka  
+- Backend Geliştirme  
+- Modern Web Uygulamaları  
+
+**GitHub:**  
+➡ https://github.com/gulcekiyakkas  
 
 
 # 🌈 QR Note Generator — Şifreli QR Kodlu Not Paylaşım Uygulaması
@@ -134,19 +145,6 @@ Projeyi beğendiysen bir ⭐ bırakabilirsin 🌟
 Fork’layıp geliştirmek istersen memnuniyet duyarım!
 
 ---
-
-# 👤 Geliştirici  
-## 🎓 Gülce Kıyakkaş  
-### Yazılım Mühendisliği Öğrencisi  
-
-**Alanlar:**  
-- Yapay Zeka  
-- Backend Geliştirme  
-- Modern Web Uygulamaları  
-
-**GitHub:**  
-➡ https://github.com/gulcekiyakkas  
-
 
 
 
